@@ -1,4 +1,4 @@
-private:
+// Link: https://practice.geeksforgeeks.org/problems/primes-sum5827/1
 
 // Same isPrime() function we have discussed earlier
 bool isPrime(int x)
@@ -15,7 +15,6 @@ bool isPrime(int x)
     return true ;
 }
 
-public:
     string isSumOfTwo(int N)
     {
         // For Odd Numbers only One Possibility is there - 2 and Another Prime
