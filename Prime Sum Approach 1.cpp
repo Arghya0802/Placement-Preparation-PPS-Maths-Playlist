@@ -1,3 +1,5 @@
+// Link: https://practice.geeksforgeeks.org/problems/primes-sum5827/1
+
 string isSumOfTwo(int N)
 {
         vector<bool> Primes(N , true) ; // In this approach, we calculate all the Prime Factors of N using Seive of Erathosthenes
