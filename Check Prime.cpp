@@ -1,3 +1,5 @@
+// Link: https://practice.geeksforgeeks.org/problems/prime-number2314/1
+
 int isPrime(int N)
 {
         if(N == 1) // For 1, we directly return false
